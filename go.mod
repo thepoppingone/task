@@ -1,4 +1,4 @@
-module task
+module github.com/thepoppingone/task
 
 go 1.17
 
